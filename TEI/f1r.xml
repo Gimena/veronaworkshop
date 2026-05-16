@@ -7,29 +7,24 @@
     <teiHeader> 
         <fileDesc>
             <titleStmt>
-                <title xml:id="quijote_avellaneda">Fragmento del Quijote de Avellaneda</title>             
+                <title xml:id="chisciotte_avellaneda">Estratto dal Chisciotte di Avellaneda</title>             
                 <author>Alonso Fernández de Avellaneda</author>
-                <editor resp="crítica">Florencio Sevilla Arroyo</editor>
-                <editor resp="digital">Gabriel Calarco</editor>  
+                <editor resp="digitale">Gimena del Rio</editor>  
              </titleStmt>
             <publicationStmt>
-                <publisher>Curso de edición digital, Competencias transversales para la digitalización del patrimonio textual</publisher>
+                <publisher>Workshop Verona</publisher>
                 <availability>
-                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                    <licence>Creative Commons Share Alike 4.0 International</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
             <bibl>
-                <title>Segundo tomo del ingenioso hidalgo Don Quixote de la Mancha, que contiene su tercera salida : y es la quinta parte de sus aventuras</title>
-                <author>Alonso Fernández de Avellaneda</author>
-                <publisher>Casa de Felipe Roberto</publisher> 
-                <date>1614</date>
-                <pubPlace>Tarragona, España</pubPlace>
-                <objectIdentifier>   
-                    <institution>Biblioteca Nacional (España)</institution>
-                    <idno>sig. R/32541</idno>
-             
-                </objectIdentifier>
+                <title>Il secondo Chisciotte</title>
+                <author role="editor">Giovanna Calabro</author>
+                <author role="translator">Alonso Fernández de Avellaneda</author>
+                <publisher>Guida editori</publisher> 
+                <date>1983</date>
+                <pubPlace>Napoli, Italia</pubPlace>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -38,14 +33,20 @@
         <text>
             <body>
 <pb n="1r"/>
-<head>Quinta parte del ingenioso hidalgo <persName key="quijote">Don Quijote de la Mancha</persName>, y de su andantesca caballería</head>
+<head>QUINTA PARTE DELL'INGEGNOSO HIDALGO<persName key="quijote">DON CHISCIOTTE DELLA MANCIA</persName>E DELLA SUA ERRABONDA CAVALLERIA</head>
 
-<head>Capítulo Primero, de cómo <persName key="quijote">Don Quijote de la Mancha</persName> volvió a sus desvanecimientos de caballero andante, y de la venida a su lugar del <placeName key="argamesilla">Argamesilla</placeName> de <note xml:id="f1rnota1">ciertos caballeros granadinos</note>.</head>
+<head>I Come<persName key="quijote">don Chisciotte della Mancia</persName>ritornò alle sue follie di
+cavaliere errante, e dell'arrivo al paese di<placeName key="argamesilla">Argamesilla</placeName>di<note xml:id="f1rnota1">certi cavalieri di Granada</note>.</head>
 
 
-<p>El sabio <persName key="alisolan">Alisolán</persName>, historiador no menos moderno que verdadero, dice que siendo expelidos los <note xml:id="f1rnota2">moros agarenos</note> de <placeName key="aragon">Aragón</placeName>, de cuya nación él decendía, entre ciertos anales de historias halló <note xml:id="f1rnota3">escrita en arábigo</note> la tercera salida que hizo del lugar del <placeName key="argamesilla">Argamesilla</placeName> el invicto hidalgo <persName key="quijote">Don Quijote de la Mancha</persName>, para ir a unas justas que se hacían en la insigne ciudad de <placeName key="zaragoza">Zaragoza</placeName>, y dice desta manera:</p>
+<p>Il dotto storico<persName key="alisolan">Alisolán</persName>, non meno moderno che veritiero,
+dice che, dopo l'espulsione dei<note xml:id="f1rnota2">mori agareni</note>dell'<placeName key="aragon">Aragón</placeName>, ddalla cui nazione egli discendeva, trovò in certi Annali
+di storia<note xml:id="f1rnota3">scritta in arabo,</note>la terza sortita che l'invitto
+hidalgo hidalgo <persName key="quijote">don Chisciotte della Mancia</persName>, fece dal paese di<placeName key="argamesilla">Argamesilla</placeName>per andare ad alcune giostre che si celebravano
+nell'insigne città di<placeName key="zaragoza">Zaragoza</placeName>; e dice cosi:</p>
 
-<p>Después de haber sido llevado (...)</p>
+<p>Don Chisciotte, dopo essere stato ricondotto al suo
+(...)</p>
 
 <pb n="1v"/>
 
